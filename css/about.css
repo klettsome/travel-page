@@ -1,0 +1,33 @@
+body {
+  background: linear-gradient(45deg, rgb(227, 255, 253), rgb(202, 243, 240));
+}
+
+header {
+  position: static;
+  margin-bottom: 43px;
+}
+
+main {
+  text-align: center;
+  margin-bottom: 154px;
+}
+
+main h1 {
+  color: rgb(68, 68, 68);
+  font-size: 50px;
+}
+
+main img {
+  width: 50%;
+  border-radius: 8px;
+}
+
+main p {
+  font-size: 18px;
+}
+
+#about-container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
